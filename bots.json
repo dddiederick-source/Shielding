@@ -1,0 +1,18 @@
+{
+    "last_updated": "2026-03-15",
+    "blocked_user_agents": [
+        "GPTBot",
+        "ChatGPT-User",
+        "CCBot",
+        "PerplexityBot",
+        "Anthropic-ai",
+        "ClaudeBot",
+        "Applebot-AI",
+        "Bytespider",
+        "ImagesiftBot",
+        "cohere-ai",
+        "FacebookBot",
+        "Omgilibot",
+        "Diffbot"
+    ]
+}
